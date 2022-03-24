@@ -1,6 +1,18 @@
 # Vscode React Typescript snippets
 A collection of user snippets for Vscode for scaffolding Redux-connected React components and actions. I've created and used them for a long time for my own use and though it might be helpful to share with the community.
 
+## Installation
+
+Copy the JSON files in this repo to the snippets directory. Below is where you can find that directory (if doesn't exist, create it) for your platform:
+
+```
+Windows %APPDATA%\Code\User\snippets\
+Mac $HOME/Library/Application Support/Code/User/snippets/
+Linux $HOME/.config/Code/User/snippets/
+```
+
+Don't rename the files otherwise they won't work. Please remember to merge the contents if you already have any of the JSON files for the languages in question.
+
 ## Usage
 
 In an empty TSX file, type any of the following snippets to scaffold:
